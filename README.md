@@ -1,4 +1,3 @@
-Sure! Here's a basic template for a `README.md` file for your Java RESTful service project. You can modify it as needed based on your project specifics.
 
 ```markdown
 # Java RESTful Service - Product API
