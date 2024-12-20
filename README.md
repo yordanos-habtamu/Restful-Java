@@ -151,8 +151,8 @@ Example using `curl`:
 ```bash
 curl -X GET http://localhost:8080/api/products
 ```
-![get request](image.png)
-![post request](image-1.png)
+![get request](image-3.png)
+![post request](image-2.png)
 
 ## Testing
 
