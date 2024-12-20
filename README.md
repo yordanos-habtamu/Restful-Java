@@ -174,10 +174,3 @@ If you would like to contribute to this project, follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-### Customization Tips:
-- Replace the `https://github.com/your-username/your-repository.git` link with the actual URL of your repository.
-- You can add more details about the project, for example, a description of how the data is stored or additional features like authentication if applicable.
-- The API responses can be updated based on the actual response structure of your project.
-
-Let me know if you'd like to include more specific details about your setup or features!
